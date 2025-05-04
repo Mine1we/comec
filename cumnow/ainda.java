@@ -8,7 +8,7 @@ import java.awt.*;
 public class ainda{
 
     public static void main(String[] args) {
-        JFrame janela = new JFrame("Então esse é o teste?");
+        JFrame janela = new JFrame("esse éo título meu rei");
         janela.setSize(500, 400);
         janela.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         
